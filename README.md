@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
 ```text
 Python     3 hrs 26 mins   █████████░░░░░░░░░░░░░░░░   37.53 % 
 Other      2 hrs 42 mins   ███████░░░░░░░░░░░░░░░░░░   29.55 % 
