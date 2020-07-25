@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Waste-Self-Rescue-Scheme
 - 💬 Ask me about Python, Journalism & Communication
 - 📫 How to reach me: [@SimonZhong](https://weibo.com/SimonZhong2025)
--->
 
 ***
 
