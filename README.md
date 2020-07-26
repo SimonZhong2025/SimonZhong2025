@@ -28,3 +28,21 @@ YAML       13 mins         ░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 -------
+
+📚 Fighting!!!
+
+
+<center>
+  
+<figure>
+<p align="center">
+<img src="https://github.com/SimonZhong2025/SimonZhong2025/blob/master/picture/%E4%BA%BA%E5%A4%A7.png" width="200" align="middle" /><img src="https://github.com/SimonZhong2025/SimonZhong2025/blob/master/picture/%E6%B8%85%E5%8D%8E.png" width="170" align="middle" />
+</p>
+<p align="center"> <img src="https://github.com/SimonZhong2025/SimonZhong2025/blob/master/picture/qq.png" width="30" align="middle" /> </p>
+
+</figure>
+
+</center>
+
+
+***
