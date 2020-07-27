@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ***
 
 
-📊 **Weekly development breakdown**
+📊 **Development breakdown**
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SimonZhong2025&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
