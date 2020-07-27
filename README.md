@@ -1,4 +1,4 @@
-### <h2 align="center">👋 Hello! I'm Simon</h2>
+# <h2 align="center">👋 Hello! I'm Simon</h2>
 
 <!--
 **SimonZhong2025/SimonZhong2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 📊 Weekly development breakdown
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SimonZhong2025&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonZhong2025&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SimonZhong2025&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonZhong2025&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
 
