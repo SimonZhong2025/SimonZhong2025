@@ -28,7 +28,7 @@ YAML       13 mins         ░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SimonZhong2025)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SimonZhong2025)](https://github.com/anuraghazra/github-readme-stats)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SimonZhong2025&repo=Waste-Self-Rescue-Scheme)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonZhong2025)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonZhong2025&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
 
