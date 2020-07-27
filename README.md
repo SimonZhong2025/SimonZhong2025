@@ -27,7 +27,10 @@ Go         33 mins         █░░░░░░░░░░░░░░░░�
 YAML       13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 ```
 <!--END_SECTION:waka-->
--------
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SimonZhong2025)](https://github.com/anuraghazra/github-readme-stats)
+
+***
 
 📚 Fighting!!!
 
