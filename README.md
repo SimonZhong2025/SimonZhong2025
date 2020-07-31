@@ -1,6 +1,8 @@
-# <h2 align="center">👋 Hello! I'm Simon</h2>
+# <p align="center">👋 Hello! I'm Simon</p>
 
-![](https://github.com/SimonZhong2025/SimonZhong2025/blob/master/picture/%E5%BC%A0%E5%9B%BD%E8%8D%A3%20%E6%9C%80%E7%BB%88%E7%89%88.jpg)
+<p align="center">
+<img src="https://github.com/SimonZhong2025/SimonZhong2025/blob/master/picture/%E5%BC%A0%E5%9B%BD%E8%8D%A3%20%E6%9C%80%E7%BB%88%E7%89%88.jpg" width="600" align="middle" />
+</p>
 
 <!--
 **SimonZhong2025/SimonZhong2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
