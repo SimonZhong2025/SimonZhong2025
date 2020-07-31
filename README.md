@@ -1,13 +1,19 @@
 # <h2 align="center">👋 Hello! I'm Simon</h2>
 
+![](https://github.com/SimonZhong2025/SimonZhong2025/blob/master/picture/%E5%BC%A0%E5%9B%BD%E8%8D%A3%20%E6%9C%80%E7%BB%88%E7%89%88.jpg)
+
 <!--
 **SimonZhong2025/SimonZhong2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 
-![](https://img.shields.io/github/commit-activity/m/SimonZhong2025/Waste-Self-Rescue-Scheme)![](https://img.shields.io/github/last-commit/SimonZhong2025/Waste-Self-Rescue-Scheme)
-
+<p align="center">
+  <img alt="Github-commit-activity" src="https://img.shields.io/github/commit-activity/m/SimonZhong2025/Waste-Self-Rescue-Scheme">
+  <img alt="last-commit" src="https://img.shields.io/github/last-commit/SimonZhong2025/Waste-Self-Rescue-Scheme">
+  <img alt="github-folllow" src="https://img.shields.io/github/followers/SimonZhong2025?label=Follow%20Github">
+  <img alt="weibo" src="https://img.shields.io/badge/Weibo-Simon__2025-green">
+</p>
 
 ##### 🧑 **My Story**
 
