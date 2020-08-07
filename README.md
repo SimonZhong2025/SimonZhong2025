@@ -1,9 +1,10 @@
 # <p align="center">👋 Hello! I'm Simon</p>
 
+<!--
 <p align="center">
 <img src="https://github.com/SimonZhong2025/SimonZhong2025/blob/master/picture/%E6%9C%AA%E6%A0%87%E9%A2%98-1.jpg" width="600" align="middle" />
 </p>
-
+-->
 <!--
 **SimonZhong2025/SimonZhong2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
