@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently learning on **JNU**
 - 🌱 I’m currently learning **Journalism & Communication** 
-- 👯 I’m looking to collaborate on Waste-Self-Rescue-Scheme
+- 👯 I’m looking to collaborate on **Waste-Self-Rescue-Scheme**
 - 💬 Ask me about **Python, Journalism & Communication**
 - 📫 How to reach me: [@SimonZhong](https://weibo.com/SimonZhong2025)
 
